@@ -1,0 +1,3 @@
+interface ICharacterModel { /* ... */ }
+
+interface IInventoryModel { /* ... */ }
